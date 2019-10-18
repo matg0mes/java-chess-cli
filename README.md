@@ -1,1 +1,1 @@
-# SystemChessProject-
+# JavaChess is very funny!

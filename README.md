@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/FoxGreedy">
-    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
-  </a>
-</p>
-
-<hr />
 
 # Java Chess CLI
 
@@ -19,3 +12,12 @@ Com o Java instalado em sua máquina vá até a pasta bin do repositório e rode
 </div>
 
 ### Divirta-se jogando com um amigo! :D
+
+
+<hr />
+
+<p align="center">
+  <a href="https://github.com/FoxGreedy">
+    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
+  </a>
+</p>
